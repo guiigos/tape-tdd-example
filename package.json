@@ -1,0 +1,22 @@
+{
+  "name": "tape-tdd-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "tape test/**/*.test.js",
+    "test:nyan": "npm run test | tnyan",
+    "coverage": "nyc npm run test | tap-nyc"
+  },
+  "author": {
+    "name": "Guilherme Alves",
+    "email": "guiigos.alves@gmail.com",
+    "url": "http://www.guiigos.alves"
+  },
+  "devDependencies": {
+    "nyc": "15.1.0",
+    "tap-nyan": "1.1.0",
+    "tap-nyc": "1.0.3",
+    "tape": "5.5.2"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,39 @@
+# temp
+*.tmp
+*.tmp.*
+
+# log
+*.log
+*.log.*
+
+# dotenv
+.env
+
+# build
+dist
+
+# editor
+.vscode
+
+# yarn
+yarn-debug.log*
+yarn-error.log*
+
+# npm
+npm-debug.log*
+package-lock.json
+
+# modules
+lib
+node_modules
+
+# coverage
+coverage
+.nyc_output
+
+# macos
+._*
+.DS_Store
+.DS_Store?
+.Trashes
+Thumbs.db
