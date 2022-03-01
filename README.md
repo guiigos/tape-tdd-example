@@ -8,6 +8,8 @@
 ```
 Project created to practice **TDD** (*Test Driven Development*).
 
+[**See the tests here!**](tape-tdd-example/test/calculator.test.js)
+
 ## Usage
 ### Dependencies
 Install dependencies and modules.
