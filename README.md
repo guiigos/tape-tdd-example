@@ -6,7 +6,7 @@
    ██║   ██║  ██║██║     ███████╗       ██║   ██████╔╝██████╔╝
    ╚═╝   ╚═╝  ╚═╝╚═╝     ╚══════╝       ╚═╝   ╚═════╝ ╚═════╝
 ```
-Project created to practice **TDD** (*Test Driven Development*). You are using the [tape](https://github.com/substack/tape) library to perform the tests.
+Project created to practice **TDD** (*Test Driven Development*).
 
 ## Usage
 ### Dependencies
