@@ -33,4 +33,4 @@ $ npm run coverage
 ## License
 Project developed for academic purposes.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![License: MIT](https://img.shields.io/github/license/guiigos/tape-tdd-example?color=black&style=flat-square)](./LICENSE)
