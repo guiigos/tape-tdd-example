@@ -12,6 +12,7 @@ Project created to practice **TDD** (*Test Driven Development*).
 
 ## Usage
 ### Dependencies
+
 Install dependencies and modules.
 
 ```bash
@@ -19,6 +20,7 @@ $ npm install
 ```
 
 ### Scripts
+
 After installing the dependencies the application is ready to run.
 
 ```bash
@@ -31,6 +33,7 @@ $ npm run coverage
 ```
 
 ## License
+
 Project developed for academic purposes.
 
 [![License: MIT](https://img.shields.io/github/license/guiigos/tape-tdd-example?style=flat-square)](./LICENSE)
